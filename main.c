@@ -8,7 +8,7 @@ typedef struct Ryan {
 int main() {
     Ryan ryan;
 
-    strcpy(ryan.gender, "female");
+    strcpy(ryan.gender, "male");
 
     printf("%s\n", ryan.gender);
     return 0;
